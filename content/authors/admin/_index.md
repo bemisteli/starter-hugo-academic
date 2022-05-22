@@ -2,8 +2,7 @@
 title: Benjamin Misteli
 role: PhD student in Aquatic Ecology
 avatar_filename: d0jhvntu_400x400.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -36,9 +35,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a PhD student working at the University of Rennes in France. As a part of the MadMacs project I analyse the effect of macrophyte removal on macroinvertebrates, phytoplankton and zooplankton. In general interested in changes of aquatic communities (especially macroinvertebrates) among environmental gradients.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Former work experience with macroinvertebrates in alpine springs in the swiss alps and macroinvertebrates in swiss alpine streams. Part of the ECR project Europonds, analysing the export of fatty acids from ponds all over Europe. Searching for a post doc starting in winter 2023.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
