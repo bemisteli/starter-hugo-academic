@@ -5,6 +5,10 @@ subtitle: Mass development of aquatic macrophytes; causes and consequences of
 date: 2022-05-22T22:35:25.231Z
 draft: false
 featured: false
+links:
+  - name: ""
+    icon_pack: ai
+    url: https://www.niva.no/en/projectweb/madmacs
 image:
   filename: featured
   focal_point: Smart
