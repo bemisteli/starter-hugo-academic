@@ -4,9 +4,9 @@ role: PhD student in Aquatic Ecology
 avatar_filename: d0jhvntu_400x400.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Impact
+  - Macroinvertebrates
+  - Zoo- and Phytoplankton
 social:
   - icon: envelope
     icon_pack: fas
