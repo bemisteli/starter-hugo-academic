@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: benjamin.misteli@univ-rennes1.fr
   address:
     street: 450 Serra Mall
     city: Stanford
