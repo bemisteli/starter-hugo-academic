@@ -39,4 +39,4 @@ I am a PhD student working at the University of Rennes in France. As a part of t
 
 Former work experience with macroinvertebrates in alpine springs in the swiss alps and macroinvertebrates in swiss alpine streams. Part of the ECR project Europonds, analysing the export of fatty acids from ponds all over Europe. Searching for a post doc starting in winter 2023.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
